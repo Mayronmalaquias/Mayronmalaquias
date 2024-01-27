@@ -1,11 +1,12 @@
 # Mayron Malaquias Oliveira
 
-Olá, eu sou Mayron, um entusiasta da tecnologia apaixonado por criar coisas incríveis. Bem-vindo ao meu espaço no GitHub!
+Olá meu nome é Mayron, tenho 19 anos, estou cursando engenharia da computação no IESB sul, estou atualmente no terceiro semestre da faculdade e busco melhorar cada vez mais . Bem-vindo ao meu espaço no GitHub!
 
 ## Sobre Mim
 
 - 👨‍💻 Desenvolvedor de Software
 - 📧 [mayronmalaquias1607@gmail.com]
+- Santa Maria DF
 
 ## Projetos Principais
 
