@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Mayron Malaquias Oliveira</h1>
 <p align="center">
-  <i>Estudante de Engenharia da Computação | 3º Semestre | IESB Sul</i>
+  <i>Estudante de Engenharia da Computação | 4º Semestre | IESB Sul</i>
 </p>
 
 ---
