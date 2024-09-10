@@ -1,29 +1,25 @@
-# Mayron Malaquias Oliveira
+👨‍💻 Mayron Malaquias Oliveira
+Bem-vindo ao meu GitHub!
+Sou Mayron, um estudante de Engenharia da Computação no IESB Sul (3º semestre) e apaixonado por tecnologia. Sempre em busca de aprendizado e desenvolvimento em novas tecnologias. Confira meus projetos e fique à vontade para colaborar!
 
-Olá meu nome é Mayron, tenho 19 anos, estou cursando engenharia da computação no IESB sul, estou atualmente no terceiro semestre da faculdade e busco melhorar cada vez mais . Bem-vindo ao meu espaço no GitHub!
+🚀 Sobre Mim
+🔭 Explorando o mundo do desenvolvimento de software com foco em C, JavaScript, e Python.
+📍 Baseado em Santa Maria, DF.
+🎓 Atualmente estudando Engenharia da Computação.
+✉️ Entre em contato: mayronmalaquias1607@gmail.com
+🛠 Projetos Principais
+Pokédex
+Uma Pokédex simples e funcional, criada consumindo a API de Pokémon, focando em design responsivo e performance.
 
-## Sobre Mim
+📈 Estatísticas GitHub
+<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mayronmalaquias&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayronmalaquias&layout=compact&langs_count=7&theme=radical"/> </div>
+💻 Habilidades
+Linguagens: C, JavaScript, Python
+Ferramentas: Git, VS Code, Node.js
+Áreas de interesse: Desenvolvimento Web, Ciência de Dados, Inteligência Artificial
+🌐 Conecte-se Comigo
+<div align="center">
 
-- 👨‍💻 Desenvolvedor de Software
-- 📧 [mayronmalaquias1607@gmail.com]
-- Santa Maria DF
-
-## Projetos Principais
-
-### [Pokedex]
-
-Construindo uma pokedex usando uma api de pokemon.
-
-## Estatísticas GitHub
-
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mayronmalaquias&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-## C, Javascript e Python
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayronmalaquias&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-Sinta-se à vontade para explorar meus projetos e abrir issues ou pull requests.
-
-## Agradecimentos
-
-Agradeço por visitar meu perfil e explorar meus projetos. Espero que encontre algo interessante!
+</div>
+🙏 Agradecimentos
+Obrigado por visitar meu perfil! Fique à vontade para explorar e colaborar em meus projetos. Sempre aberto a feedbacks e novas ideias!
