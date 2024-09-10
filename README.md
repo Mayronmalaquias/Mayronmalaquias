@@ -47,7 +47,7 @@
 ### Pokédex
 - 🔗 **Descrição:** Uma **Pokédex** simples e funcional, criada utilizando a API de Pokémon, com foco em design responsivo e consumo eficiente de API.
 - 🚧 **Status:** Concluido.
-- 🔗 **link** <a href="https://mayronmalaquias.github.io/pokedex/"></a>
+- 🔗 **link** <a href="https://mayronmalaquias.github.io/pokedex/">Pokedex</a>
 
 ---
 
