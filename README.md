@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Mayron%20Malaquias&fontSize=70&animation=fadeIn" />
-</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
