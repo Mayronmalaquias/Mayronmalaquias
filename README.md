@@ -79,7 +79,3 @@ Olá! Meu nome é **Mayron**. Tenho experiência prática no desenvolvimento de 
 
 ---
 
-<p align="center">
-  "A tecnologia move o mundo, mas a curiosidade move o desenvolvedor." <br>
-  <b>Vamos construir algo juntos?</b>
-</p>
