@@ -22,7 +22,7 @@
 ## 🚀 Sobre mim
 
 🎓 **Engenharia da Computação** (7º semestre)  
-🔍 Foco total em **Backend, Dados e Segurança**
+🔍 Foco em **Backend, Dados e Segurança**
 
 * 🛠️ **Desenvolvimento:** Criação de sistemas robustos e APIs escaláveis.
 * 📈 **Dados:** Automação de processos e análise estratégica com Power BI e Python.
