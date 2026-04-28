@@ -1,8 +1,8 @@
 <div align="center">
 
-# Mayron Malaquias
+# 👋 Olá
 
-### Análise de Dados e Desenvolvimento
+### 📊 Análise de Dados | 💻 Desenvolvimento | 🏗️ Infraestrutura
 
 <p>
   <a href="https://www.linkedin.com/in/mayronn/" target="_blank">
@@ -19,41 +19,49 @@
 
 ---
 
-## Sobre mim
+## 🚀 Sobre mim
 
-Estudante de **Engenharia da Computação (7º semestre)**  
-Foco em **backend, dados e infraestrutura**
+🎓 **Engenharia da Computação** (7º semestre)  
+🔍 Foco total em **Backend, Dados e Segurança**
 
-- Desenvolvimento de sistemas completos  
-- APIs, automação e análise de dados  
-- Experiência com projetos reais  
+* 🛠️ **Desenvolvimento:** Criação de sistemas robustos e APIs escaláveis.
+* 📈 **Dados:** Automação de processos e análise estratégica com Power BI e Python.
+* 🌐 **Infraestrutura:** Experiência prática com Linux e ambientes em nuvem.
+* 🤖 **Automações:** Projetos de hardware autônomo.
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### Linguagens
+### 👾 Linguagens
 <img src="https://skillicons.dev/icons?i=python,js,c,java" />
 
-### Web & Frameworks
+### 🌐 Web & Frameworks
 <img src="https://skillicons.dev/icons?i=react,flask,html,css" />
 
-### Dados & Infra
+### 💾 Dados & Infra
 <img src="https://skillicons.dev/icons?i=postgres,aws,linux" />
 <br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-CC0000?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mayronmalaquias&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayronmalaquias&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayronmalaquias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayronmalaquias&layout=compact&theme=tokyonight"/>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
